@@ -1,7 +1,7 @@
-<script>
+<script lang="ts">
 	import { onMount } from "svelte";
 
-	export let name;
+	export let name: string;
 
 	let apimessage = "Waiting for server...";
 
@@ -19,7 +19,7 @@
 		how to build Svelte apps.
 	</p>
 
-	<h3>Data from server</h3>
+	<h3>Data from server not anymore</h3>
 	{apimessage}
 </main>
 

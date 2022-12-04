@@ -1,1 +1,1 @@
-bash scripts/manage.sh runserverbash scripts/manage.sh runserver
+bash scripts/manage.sh runserver
